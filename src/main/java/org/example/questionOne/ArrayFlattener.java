@@ -25,6 +25,7 @@ public class ArrayFlattener {
                 outputArray[index++] = number;
             }
         }
+        
         return outputArray;
     }
 }
